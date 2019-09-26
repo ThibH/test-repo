@@ -1,2 +1,4 @@
 # Introduction
-Test Repo
+This is a Test Repo
+# How to contribute
+This is how you do
